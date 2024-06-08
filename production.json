@@ -1,0 +1,38 @@
+{
+  "version": {
+    "inReview": "0.0.1",
+    "latest": "0.0.1",
+    "optional": "0.0.1",
+    "force": "0.0.1",
+    "storeUrls": {
+      "android": "matket://details?id=com.teamcheers.app",
+      "ios": "https://team-cheers.com"
+    },
+    "msg": {
+      "ko": {
+        "msg": "원활한 서비스를 이용하시려면,\n업데이트가 꼭 필요합니다.",
+        "subMsg": "업데이트 하시겠습니까?",
+        "rightButton": "확인",
+        "leftButton": "취소"
+      },
+      "en": {
+        "msg": "To use the service,\nneed to  update.",
+        "subMsg": "Would you like to update?",
+        "rightButton": "OK",
+        "leftButton": "Cancel"
+      }
+    }
+  },
+  "cmdbLogging": false,
+  "abtest": {
+    "TEST": {
+      "abOption": "A",
+      "minVersion": "0.0.0",
+      "start": "2023-06-09T00:00:00+09:00[Asia/Seoul]",
+      "dividedBy": "NONE",
+      "overrideA": [],
+      "overrideB": [],
+      "overrideC": []
+    }
+  }
+}
